@@ -1,0 +1,5 @@
+C:\Users\CERNA\source\repos\TestConcept\Toolkit\obj\Debug\Toolkit.csproj.AssemblyReference.cache
+C:\Users\CERNA\source\repos\TestConcept\Toolkit\obj\Debug\_EmptyResource.resources
+C:\Users\CERNA\source\repos\TestConcept\Toolkit\obj\Debug\Toolkit.csproj.GenerateResource.cache
+C:\Users\CERNA\source\repos\TestConcept\Toolkit\obj\Debug\Toolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CERNA\source\repos\TestConcept\Toolkit\obj\Debug\Toolkit.csproj.CoreCompileInputs.cache
